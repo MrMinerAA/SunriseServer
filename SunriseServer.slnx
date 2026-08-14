@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SunriseServer/SunriseServer.vcxproj" Id="5185ce9b-7d4e-43cb-bf5d-7c5ce980c4be" />
+</Solution>
