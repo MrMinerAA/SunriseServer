@@ -15,13 +15,13 @@
             "name": "Windows",
             "includePath": [
                 "${workspaceFolder}/**",
-                "/opt/llvm-mingw/x86_64-w64-mingw32/include/**"
+                "/usr/x86_64-w64-mingw32/include/**"
             ],
             "defines": [],
-            "compilerPath": "/opt/llvm-mingw/bin/x86_64-w64-mingw32-clang",
+            "compilerPath": "/usr/bin/x86_64-w64-mingw32-g++",
             "cStandard": "c17",
             "cppStandard": "c++20",
-            "intelliSenseMode": "windows-clang-x64"
+            "intelliSenseMode": "windows-gcc-x64"
         }
     ],
     "version": 4
